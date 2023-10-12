@@ -1,0 +1,17 @@
+/*reset*/
+*{
+    margin: 0; /*magen es el espacio de afuera*/
+    padding: 0%; /*espaciado o margen interno*/
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../img/12-Dark.jpg");
+}
+
+.menu {
+    color: beige;
+    background-color: black;
+    margin: 20px 40px;
+}

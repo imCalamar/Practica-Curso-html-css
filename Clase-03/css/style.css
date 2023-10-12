@@ -1,0 +1,40 @@
+
+/*estilos por clase*/
+.menu1 {
+    color: blueviolet;
+}
+.menu1 ul li {
+    list-style: none; /*quita los puntos de las listas*/
+    background-color: salmon; 
+    font-size: 20px; /*tamano de letra*/
+    font-weight: bolder;/*ancho de la tipografia*/
+    text-decoration: underline; /*decoracion - linea de abajo*/
+
+}
+/*estilos por id*/
+
+#subtitulo {
+    color: #c91717;
+}
+
+/* importancia de aplicar estilos*/
+h3{
+    color: #00b7ff;
+}
+.colorAmarillo{
+    color: blue;
+}
+#colorRed{
+    color: black;
+}
+
+header h1 {
+    background-color: #00b7ff;
+    text-align: center;
+    
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../img/12-Dark.jpg");
+}
